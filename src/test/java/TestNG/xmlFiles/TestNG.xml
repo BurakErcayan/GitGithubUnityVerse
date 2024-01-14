@@ -1,0 +1,9 @@
+<suite name="My Suite">
+    <tests>
+        <test name="My Test">
+            <classes>
+                <class name="TestNG.Testlerim"/>
+            </classes>
+        </test>
+    </tests>
+</suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SeleniumMaven.Unit(failed)">
+    <classes>
+      <class name="TestNG.Testlerim">
+        <methods>
+          <include name="Test08"/>
+          <include name="Test07"/>
+          <include name="Test04"/>
+          <include name="Test03"/>
+          <include name="Test06"/>
+          <include name="Test05"/>
+          <include name="teardown"/>
+          <include name="SetUp"/>
+          <include name="Test02"/>
+        </methods>
+      </class> <!-- TestNG.Testlerim -->
+    </classes>
+  </test> <!-- SeleniumMaven.Unit(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
