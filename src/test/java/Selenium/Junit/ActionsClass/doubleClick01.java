@@ -49,8 +49,5 @@ public class doubleClick01 {
         actions.doubleClick(rightClik).click();
 
     }
-
-
-
-
+    //Git Github 1.deneme
 }
